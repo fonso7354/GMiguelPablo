@@ -4,7 +4,6 @@ public class Conflicto {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Sin Conflictoo");
-		
+		System.out.println("Sin Conflicto");
 	}
 }
